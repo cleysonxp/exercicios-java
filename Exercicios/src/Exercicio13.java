@@ -1,3 +1,4 @@
+//Programa que pede o valor/hora e as horas trabalhadas no mes e mostra um extrato, tendo infomações de descontos
 import java.util.Scanner;
 
 public class Exercicio13 {
