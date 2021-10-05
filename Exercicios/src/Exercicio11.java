@@ -1,3 +1,7 @@
+
+//Exercício onde sera pedido dois numeros inteiro e um real, 
+//e ira ser exibido o produto do dobro do primeiro numero com a metade do segundo, 
+//a soma do tripo do primeiro numero com terceiro, e o terceiro elevado.
 import java.util.Scanner;
 
 public class Exercicio11 {
