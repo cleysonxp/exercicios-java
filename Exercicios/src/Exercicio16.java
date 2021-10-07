@@ -1,3 +1,4 @@
+//Programa que solicita um número e informara se ele é positivo ou negativo
 import java.util.Scanner;
 
 public class Exercicio16 {
