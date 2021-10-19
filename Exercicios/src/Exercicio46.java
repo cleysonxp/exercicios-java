@@ -1,7 +1,7 @@
 //Programa que imprime os números impares do zero até 50.
 import java.util.Iterator;
 
-public class Exercicioco46 {
+public class Exercicio46 {
 
 	public static void main(String[] args) {
 
