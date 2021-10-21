@@ -1,3 +1,4 @@
+//Programa que pede dois números e faz a soma dos numeros entre eles.
 import java.util.Scanner;
 
 public class Exercicio48 {
