@@ -1,4 +1,4 @@
-//Programa que mostra o aumento de um funcionario x do ano de 1995 ate o ano de 2021
+//Programa que mostra o aumento de um funcionario x do ano de 1995 ate o ano de 2021, e utlizando o DecimalFormat.
 import java.text.DecimalFormat;
 import java.util.Scanner;
 
@@ -6,7 +6,7 @@ public class Exercicio68 {
 
 	public static void main(String[] args) {
 
-		DecimalFormat deci = new DecimalFormat("0.00");
+		DecimalFormat deci = new DecimalFormat("###,###.##");
 		Scanner scan = new Scanner(System.in);
 
 		System.out.print("Informe o seu salário: ");
